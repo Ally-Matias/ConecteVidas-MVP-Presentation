@@ -4,11 +4,11 @@
 
 ## Descrição
 
-Este projeto é um MVP (Minimum Viable Product) da plataforma ConecteVidas, que tem o objetivo de conectar profissionais de saúde a pacientes que necessitam de cuidados em casa. Este MVP foca em fornecer funcionalidades essenciais para a interação entre profissionais e usuários.
+Este projeto é um MVP (Minimum Viable Product) da plataforma ConecteVidas, que tem o objetivo de conectar profissionais de saúde a pacientes que necessitam de cuidados em casa. Este MVP foca em fornecer funcionalidades essenciais para a interação entre profissionais e usuários. Este MVP representa a primeira versão da plataforma ConecteVidas, estando atualmente em fase de desenvolvimento. Apesar de ainda não estar acessível ao público em geral, compartilho este repositório como parte do meu portfólio, demonstrando o progresso e o compromisso contínuo com o desenvolvimento deste projeto.
 
 ## :technologist: Membros da Equipe
 
-- Alliquison Matias da Silva, 508445
+- Alliquison Matias da Silva
 
 ## 🔴 Clique na imagem para ver o vídeo do projeto:
 
