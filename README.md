@@ -2,13 +2,13 @@
   <img height="300px" width="300px" src="logoReadme.png" />
 </div>
 
-## Descrição
+## 📌 Descrição
 
-Este projeto é um MVP (Minimum Viable Product) da plataforma ConecteVidas, que tem o objetivo de conectar profissionais de saúde a pacientes que necessitam de cuidados em casa. Este MVP foca em fornecer funcionalidades essenciais para a interação entre profissionais e usuários. Este MVP representa a primeira versão da plataforma ConecteVidas, estando atualmente em fase de desenvolvimento. Apesar de ainda não estar acessível ao público em geral, compartilho este repositório como parte do meu portfólio, demonstrando o progresso e o compromisso contínuo com o desenvolvimento deste projeto.
+Este repositório apresenta a primeira versão do MVP (Minimum Viable Product) da plataforma ConecteVidas, que visa conectar profissionais de saúde a pacientes que necessitam de cuidados domiciliares. Este MVP foca em fornecer funcionalidades essenciais para a interação entre profissionais e usuários.
 
-## :technologist: Membros da Equipe
+Por razões de segurança, os códigos específicos não estão disponíveis para visualização pública. Este projeto faz parte de uma startup em desenvolvimento, reforçando nosso compromisso contínuo com seu aprimoramento. Vale destacar que a ideia desta startup participou do Empreende UFC, onde foi reconhecida e premiada por sua inovação e potencial impacto no setor de saúde.
 
-- Alliquison Matias da Silva
+A condução e desenvolvimento do projeto foi realizada exclusivamente por mim, aproveitando minha experiência como programador. Este README é apresentado como um registro do trabalho, destacando a transformação da ideia em uma solução funcional. Importante ressaltar que a plataforma ainda está em fase de desenvolvimento, e por isso, não está disponível para uso público.
 
 ## 🔴 Clique na imagem para ver o vídeo do projeto:
 
